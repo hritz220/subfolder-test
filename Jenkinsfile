@@ -1,4 +1,4 @@
-@Library('local-shared-library@master') _
+@Library('local-shared-library@1.0') _
 loadLocalLibrary scm, "library"
 
 pipeline {
